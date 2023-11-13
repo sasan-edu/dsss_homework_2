@@ -1,7 +1,7 @@
 import random
 
 
-def function_A(min, max):
+def function_A___new___(min, max):
     """
     Random integer.
     """
