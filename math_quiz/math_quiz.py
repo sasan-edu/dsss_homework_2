@@ -1,6 +1,5 @@
 import random
 
-
 def random_int_between(min, max):
     """generates Random integer.
 	Arg: 
